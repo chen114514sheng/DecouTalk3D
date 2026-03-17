@@ -1,6 +1,6 @@
-# DecouTalk3D：分层解耦引导的情感可控VQ-VAE 3D说话人脸生成方法
+# DecTalk3D：分层解耦引导的情感可控VQ-VAE 3D说话人脸生成方法
 ## 简介
-项目位置：https://github.com/chen114514sheng/DecouTalk3D
+项目位置：https://github.com/chen114514sheng/DecTalk3D
 
 本项目使用语音、文本、身份向量这3个条件，在VQ-VAE结构的基础上，通过分层解耦的方法生成说话人脸视频。
 ## 方法概述
